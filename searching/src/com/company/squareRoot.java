@@ -1,5 +1,5 @@
 package com.company;
-
+// link: https://leetcode.com/problems/sqrtx/
 public class squareRoot {
 
     public static void main(String[] args) {

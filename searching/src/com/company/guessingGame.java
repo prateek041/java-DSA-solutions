@@ -1,5 +1,6 @@
 package com.company;
-
+// RT : 0ms, 25/25
+// link: https://leetcode.com/problems/guess-number-higher-or-lower
 public class guessingGame {
     public static void main(String[] args) {
 
