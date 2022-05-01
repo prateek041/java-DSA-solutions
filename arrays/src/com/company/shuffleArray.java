@@ -1,6 +1,6 @@
 package com.company;
 // Runtime: 0 ms, faster than 100.00% of Java online submissions for Shuffle the Array.
-
+// link: https://leetcode.com/problems/shuffle-the-array/
 import java.util.Arrays;
 
 public class shuffleArray {

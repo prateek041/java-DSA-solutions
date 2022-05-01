@@ -1,5 +1,6 @@
 package com.company;
 // Runtime: 1 ms, faster than 85.76% of Java online submissions for Kids With the Greatest Number of Candies.
+// link : https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,5 @@
 package com.company;
-
+// link: https://leetcode.com/problems/running-sum-of-1d-array/
 import java.util.Arrays;
 
 public class Sum1DArray {

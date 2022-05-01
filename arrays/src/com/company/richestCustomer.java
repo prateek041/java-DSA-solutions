@@ -1,6 +1,6 @@
 package com.company;
 // Runtime: 0 ms, faster than 100.00% of Java online submissions for Richest Customer Wealth.
-
+// link : https://leetcode.com/problems/richest-customer-wealth/
 public class richestCustomer {
     public static void main(String[] args) {
         int[][] accounts = {{1, 5}, {7, 3}, {3,5}};
