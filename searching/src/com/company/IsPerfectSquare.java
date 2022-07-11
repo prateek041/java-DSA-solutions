@@ -1,7 +1,7 @@
 package com.company;
 // Runtime: Runtime: 0 ms, faster than 100.00% of Java online submissions
 // link: https://leetcode.com/problems/valid-perfect-square/submissions/
-
+// using long is the key takeaway !
 public class IsPerfectSquare {
     public static void main(String[] args) {
         int num = 2147483647;
